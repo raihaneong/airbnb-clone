@@ -1,0 +1,123 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-family: Poppins, sans-serif;
+  background: #c33764; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #1d2671,
+    #c33764
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #1d2671,
+    #c33764
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.navbar {
+  padding: 1em;
+  background-color: white;
+}
+
+.airbnb-logo {
+  width: 10em;
+}
+
+.Hero {
+  display: flex;
+  flex-direction: column;
+}
+
+.photo-grid {
+  margin: 1em auto;
+  width: 30rem;
+}
+
+.heroText {
+  margin: 1em;
+  padding: 1em;
+}
+
+.Counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Counter__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Counter__content-button {
+  flex-direction: row;
+  display: flex;
+  margin: auto;
+}
+
+section {
+  padding: 20px;
+}
+
+.cards-list {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  overflow-x: auto;
+}
+
+.Card {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 auto;
+  flex-direction: column;
+  width: 18em;
+  margin: 2rem;
+  padding: 1rem;
+  position: relative;
+}
+
+.card-description span {
+  color: grey;
+  margin: 4px 0;
+}
+
+.card-photo {
+  width: 15rem;
+}
+
+
+
+strong {
+  color: red;
+}
+
+.Contact {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+
+.Contact__container {
+  padding: 1em;
+  margin: 1rem;
+  background-color: black;
+  width: 20em;
+  border-radius: 10px;
+}
+
+.Joke {
+  margin: 1rem;
+  padding: 1em;
+  border: solid 1px white;
+}
+
+.Joke span {
+  color: palegreen;
+}
