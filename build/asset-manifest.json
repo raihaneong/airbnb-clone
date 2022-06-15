@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22510a4f.css",
+    "main.js": "/static/js/main.663e3471.js",
+    "static/media/photo-grid.png": "/static/media/photo-grid.b94507685d562be47b0f.png",
+    "static/media/katie-zaferes.png": "/static/media/katie-zaferes.4dcb2224d553ccd977a4.png",
+    "static/media/wedding-photography 1.png": "/static/media/wedding-photography 1.de6d8e47cc4f6902350d.png",
+    "static/media/mountain-bike 1.png": "/static/media/mountain-bike 1.4a10cddcb175d2ec7128.png",
+    "static/media/airbnb-logo.png": "/static/media/airbnb-logo.70acbfa50627f4b71032.png",
+    "index.html": "/index.html",
+    "main.22510a4f.css.map": "/static/css/main.22510a4f.css.map",
+    "main.663e3471.js.map": "/static/js/main.663e3471.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22510a4f.css",
+    "static/js/main.663e3471.js"
+  ]
+}
