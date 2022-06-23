@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.22510a4f.css",
-    "main.js": "/static/js/main.663e3471.js",
-    "static/media/photo-grid.png": "/static/media/photo-grid.b94507685d562be47b0f.png",
-    "static/media/katie-zaferes.png": "/static/media/katie-zaferes.4dcb2224d553ccd977a4.png",
-    "static/media/wedding-photography 1.png": "/static/media/wedding-photography 1.de6d8e47cc4f6902350d.png",
-    "static/media/mountain-bike 1.png": "/static/media/mountain-bike 1.4a10cddcb175d2ec7128.png",
-    "static/media/airbnb-logo.png": "/static/media/airbnb-logo.70acbfa50627f4b71032.png",
-    "index.html": "/index.html",
-    "main.22510a4f.css.map": "/static/css/main.22510a4f.css.map",
-    "main.663e3471.js.map": "/static/js/main.663e3471.js.map"
+    "main.css": "/airbnb-clone/static/css/main.22510a4f.css",
+    "main.js": "/airbnb-clone/static/js/main.5c39714f.js",
+    "static/media/photo-grid.png": "/airbnb-clone/static/media/photo-grid.b94507685d562be47b0f.png",
+    "static/media/katie-zaferes.png": "/airbnb-clone/static/media/katie-zaferes.4dcb2224d553ccd977a4.png",
+    "static/media/wedding-photography 1.png": "/airbnb-clone/static/media/wedding-photography 1.de6d8e47cc4f6902350d.png",
+    "static/media/mountain-bike 1.png": "/airbnb-clone/static/media/mountain-bike 1.4a10cddcb175d2ec7128.png",
+    "static/media/airbnb-logo.png": "/airbnb-clone/static/media/airbnb-logo.70acbfa50627f4b71032.png",
+    "index.html": "/airbnb-clone/index.html",
+    "main.22510a4f.css.map": "/airbnb-clone/static/css/main.22510a4f.css.map",
+    "main.5c39714f.js.map": "/airbnb-clone/static/js/main.5c39714f.js.map"
   },
   "entrypoints": [
     "static/css/main.22510a4f.css",
-    "static/js/main.663e3471.js"
+    "static/js/main.5c39714f.js"
   ]
 }
